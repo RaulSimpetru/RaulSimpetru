@@ -7,7 +7,7 @@
 [![EMG](https://img.shields.io/badge/EMG-%22logical%22%20squiggly%20lines-blue?style=flat-square)](#)
 [![Myocontrol](https://img.shields.io/badge/myocontrol-think%20it%20(hopefully)%20move%20it-green?style=flat-square)](#)
 [![Simulations](https://img.shields.io/badge/simulations-trust%20me%20bro-purple?style=flat-square)](#)
-[![Neurorehab](https://img.shields.io/badge/Neurorehab-assisting%20function-orange?style=flat-square)](#)
+[![Neurorehab](https://img.shields.io/badge/neurorehab-assisting%20function-orange?style=flat-square)](#)
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-support-yellow?style=for-the-badge&logo=buymeacoffee)](https://buymeacoffee.com/raulsimpetru)
 
