@@ -1,7 +1,7 @@
-<a href="https://raulsimpetru.github.io/"><img src="assets/banner.jpg" width="100%" alt="Clean-line comic illustration of Raul C. Sîmpetru presenting a live demo in the n-squared lab in Erlangen: he raises his hand, with a bracelet on his wrist, toward a projection of motor-unit spike trains and a pixel hand with one finger lit. A caption reads: Neural interfaces for hand control."></a>
+<a href="https://raulsimpetru.github.io/"><img src="assets/cover.svg" width="100%" alt="Clean-line comic illustration of Raul C. Sîmpetru presenting a live demo in the n-squared lab in Erlangen: he raises his hand, with a bracelet on his wrist, toward a projection of motor-unit spike trains and a pixel hand with one finger lit. A caption reads: Neural interfaces for hand control."></a>
 
 <details>
-<summary><b>How this drawing was made</b></summary>
+<summary><img src="assets/how.svg" height="32" alt="How this drawing was made"></summary>
 <br>
 <img src="assets/lab-demo-photo.jpg" width="420" alt="The original photo: Raul C. Sîmpetru presenting the live demo in the lab, his hand raised toward the projection">
 
@@ -35,9 +35,7 @@ Deliver one landscape PNG with exact 16:9 pixel dimensions, preferably 1920x1080
 
 </details>
 
-<h2 align="center">Hi, I’m Raul, a content creator for journals (PhD student)</h2>
-
-<p align="center">I build neural interfaces that turn muscle activity into control of virtual hands, orthoses and prostheses. Doctoral researcher at the n-squared lab, FAU Erlangen-Nürnberg; Dr.-Ing. defence expected December 2026.</p>
+<img src="assets/about.svg" width="100%" alt="Dr.-Ing. defence expected December 2026. Hi, I’m Raul, a content creator for journals (PhD student). I build neural interfaces that turn muscle activity into control of virtual hands, orthoses and prostheses. n-squared lab, FAU, Erlangen, Germany.">
 
 <p align="center">
 <a href="https://raulsimpetru.github.io/"><img src="assets/pill-website.png" height="37" alt="Website"></a>&nbsp;
@@ -47,21 +45,13 @@ Deliver one landscape PNG with exact 16:9 pixel dimensions, preferably 1920x1080
 <a href="https://raulsimpetru.github.io/uploads/raul-simpetru-cv.pdf"><img src="assets/pill-cv.png" height="37" alt="CV (PDF)"></a>
 </p>
 
-## Research software
+<img src="assets/sechead.svg" width="100%" alt="Research software, open source">
 
 <p align="center">
-<a href="https://github.com/NsquaredLab/MyoGestic"><img src="assets/card-myogestic.png" width="406" alt="MyoGestic: real-time myocontrol software with decoder calibration during participant sessions. Python, open source. Co-creator and core developer."></a>
-<a href="https://github.com/NsquaredLab/MyoGen"><img src="assets/card-myogen.png" width="406" alt="MyoGen: biophysical simulation from neural drive to EMG. Python, open source. Author and maintainer; pip install myogen."></a>
+<a href="https://github.com/NsquaredLab/MyoGestic"><img src="assets/card-myogestic.png" width="49%" alt="MyoGestic: real-time myocontrol software with decoder calibration during participant sessions. Python, open source. Co-creator and core developer."></a>
+<a href="https://github.com/NsquaredLab/MyoGen"><img src="assets/card-myogen.png" width="49%" alt="MyoGen: biophysical simulation from neural drive to EMG. Python, open source. Author and maintainer; pip install myogen."></a>
 </p>
 
----
+<a href="https://raulsimpetru.github.io/#contact"><img src="assets/postcard.svg" width="100%" alt="A postcard with a comic desert camp at dusk. Myo means muscle, which is where many of these tools begin: MyoGen, MyoGestic, and MyoVerse. But there is also a hidden my in there. I like to think that once you clone the code, adapt it, and build with it, the tool becomes yours too. Raul C. Sîmpetru, n-squared lab, FAU Erlangen-Nürnberg."></a>
 
-<div align="center">
-
-**Myo** means muscle, which is where many of these tools begin: MyoGen, MyoGestic, and MyoVerse.
-
-But there is also a hidden **my** in there. I like to think that once you clone the code, adapt it, and build with it, the tool becomes yours too.
-
-<a href="https://buymeacoffee.com/raulsimpetru"><img src="assets/pill-coffee.png" height="37" alt="Buy me a coffee"></a>
-
-</div>
+<p align="center"><a href="https://buymeacoffee.com/raulsimpetru"><img src="assets/pill-coffee.png" height="37" alt="Buy me a coffee"></a></p>
