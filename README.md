@@ -40,18 +40,18 @@ Deliver one landscape PNG with exact 16:9 pixel dimensions, preferably 1920x1080
 <p align="center">I build neural interfaces that turn muscle activity into control of virtual hands, orthoses and prostheses. Doctoral researcher at the n-squared lab, FAU Erlangen-Nürnberg; Dr.-Ing. defence expected December 2026.</p>
 
 <p align="center">
-<a href="https://raulsimpetru.github.io/"><img src="assets/pill-website.png" height="37" alt="Website"></a>&nbsp;
-<a href="https://scholar.google.com/citations?user=jAHFWF8AAAAJ"><img src="assets/pill-scholar.png" height="37" alt="Google Scholar"></a>&nbsp;
-<a href="https://orcid.org/0000-0003-0455-0168"><img src="assets/pill-orcid.png" height="37" alt="ORCID"></a>&nbsp;
-<a href="https://www.linkedin.com/in/raulsimpetru/"><img src="assets/pill-linkedin.png" height="37" alt="LinkedIn"></a>&nbsp;
-<a href="https://raulsimpetru.github.io/uploads/raul-simpetru-cv.pdf"><img src="assets/pill-cv.png" height="37" alt="CV (PDF)"></a>
+<a href="https://raulsimpetru.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-website-dark.png"><img src="assets/pill-website.png" height="37" alt="Website"></picture></a>&nbsp;
+<a href="https://scholar.google.com/citations?user=jAHFWF8AAAAJ"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-scholar-dark.png"><img src="assets/pill-scholar.png" height="37" alt="Google Scholar"></picture></a>&nbsp;
+<a href="https://orcid.org/0000-0003-0455-0168"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-orcid-dark.png"><img src="assets/pill-orcid.png" height="37" alt="ORCID"></picture></a>&nbsp;
+<a href="https://www.linkedin.com/in/raulsimpetru/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-linkedin-dark.png"><img src="assets/pill-linkedin.png" height="37" alt="LinkedIn"></picture></a>&nbsp;
+<a href="https://raulsimpetru.github.io/uploads/raul-simpetru-cv.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-cv-dark.png"><img src="assets/pill-cv.png" height="37" alt="CV (PDF)"></picture></a>
 </p>
 
 ## Research software
 
 <p align="center">
-<a href="https://github.com/NsquaredLab/MyoGestic"><img src="assets/card-myogestic.png" width="406" alt="MyoGestic: real-time myocontrol software with decoder calibration during participant sessions. Python, open source. Co-creator and core developer."></a>
-<a href="https://github.com/NsquaredLab/MyoGen"><img src="assets/card-myogen.png" width="406" alt="MyoGen: biophysical simulation from neural drive to EMG. Python, open source. Author and maintainer; pip install myogen."></a>
+<a href="https://github.com/NsquaredLab/MyoGestic"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-myogestic-dark.png"><img src="assets/card-myogestic.png" width="406" alt="MyoGestic: real-time myocontrol software with decoder calibration during participant sessions. Python, open source. Co-creator and core developer."></picture></a>
+<a href="https://github.com/NsquaredLab/MyoGen"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-myogen-dark.png"><img src="assets/card-myogen.png" width="406" alt="MyoGen: biophysical simulation from neural drive to EMG. Python, open source. Author and maintainer; pip install myogen."></picture></a>
 </p>
 
 ---
@@ -62,6 +62,6 @@ Deliver one landscape PNG with exact 16:9 pixel dimensions, preferably 1920x1080
 
 But there is also a hidden **my** in there. I like to think that once you clone the code, adapt it, and build with it, the tool becomes yours too.
 
-<a href="https://buymeacoffee.com/raulsimpetru"><img src="assets/pill-coffee.png" height="37" alt="Buy me a coffee"></a>
+<a href="https://buymeacoffee.com/raulsimpetru"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-coffee-dark.png"><img src="assets/pill-coffee.png" height="37" alt="Buy me a coffee"></picture></a>
 
 </div>
