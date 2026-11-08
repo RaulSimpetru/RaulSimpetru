@@ -35,23 +35,23 @@ Deliver one landscape PNG with exact 16:9 pixel dimensions, preferably 1920x1080
 
 </details>
 
-<img src="assets/about.svg" width="100%" alt="Dr.-Ing. defence expected December 2026. Hi, I’m Raul, a content creator for journals (PhD student). I build neural interfaces that turn muscle activity into control of virtual hands, orthoses and prostheses. n-squared lab, FAU, Erlangen, Germany.">
+<img src="assets/about.svg" width="100%" alt="Dr.-Ing. defence expected December 2026. Hi, I’m Raul, a content creator for journals (PhD student). I build neural interfaces that turn muscle activity into control of virtual hands, orthoses and prostheses.">
 
 <p align="center">
-<a href="https://raulsimpetru.github.io/"><img src="assets/pill-website.png" height="37" alt="Website"></a>&nbsp;
-<a href="https://scholar.google.com/citations?user=jAHFWF8AAAAJ"><img src="assets/pill-scholar.png" height="37" alt="Google Scholar"></a>&nbsp;
-<a href="https://orcid.org/0000-0003-0455-0168"><img src="assets/pill-orcid.png" height="37" alt="ORCID"></a>&nbsp;
-<a href="https://www.linkedin.com/in/raulsimpetru/"><img src="assets/pill-linkedin.png" height="37" alt="LinkedIn"></a>&nbsp;
-<a href="https://raulsimpetru.github.io/uploads/raul-simpetru-cv.pdf"><img src="assets/pill-cv.png" height="37" alt="CV (PDF)"></a>
+<a href="https://raulsimpetru.github.io/"><img src="assets/pill-website.svg" height="40" alt="Website"></a>&nbsp;
+<a href="https://scholar.google.com/citations?user=jAHFWF8AAAAJ"><img src="assets/pill-scholar.svg" height="40" alt="Google Scholar"></a>&nbsp;
+<a href="https://orcid.org/0000-0003-0455-0168"><img src="assets/pill-orcid.svg" height="40" alt="ORCID"></a>&nbsp;
+<a href="https://www.linkedin.com/in/raulsimpetru/"><img src="assets/pill-linkedin.svg" height="40" alt="LinkedIn"></a>&nbsp;
+<a href="https://raulsimpetru.github.io/uploads/raul-simpetru-cv.pdf"><img src="assets/pill-cv.svg" height="40" alt="CV (PDF)"></a>
 </p>
 
 <img src="assets/sechead.svg" width="100%" alt="Research software, open source">
 
 <p align="center">
-<a href="https://github.com/NsquaredLab/MyoGestic"><img src="assets/card-myogestic.png" width="49%" alt="MyoGestic: real-time myocontrol software with decoder calibration during participant sessions. Python, open source. Co-creator and core developer."></a>
-<a href="https://github.com/NsquaredLab/MyoGen"><img src="assets/card-myogen.png" width="49%" alt="MyoGen: biophysical simulation from neural drive to EMG. Python, open source. Author and maintainer; pip install myogen."></a>
+<a href="https://github.com/NsquaredLab/MyoGestic"><img src="assets/card-myogestic.svg" width="49%" alt="MyoGestic: real-time myocontrol software with decoder calibration during participant sessions. Python, open source. Co-creator and core developer."></a>
+<a href="https://github.com/NsquaredLab/MyoGen"><img src="assets/card-myogen.svg" width="49%" alt="MyoGen: biophysical simulation from neural drive to EMG. Python, open source. Author and maintainer; pip install myogen."></a>
 </p>
 
 <a href="https://raulsimpetru.github.io/#contact"><img src="assets/postcard.svg" width="100%" alt="A postcard with a comic desert camp at dusk. Myo means muscle, which is where many of these tools begin: MyoGen, MyoGestic, and MyoVerse. But there is also a hidden my in there. I like to think that once you clone the code, adapt it, and build with it, the tool becomes yours too. Raul C. Sîmpetru, n-squared lab, FAU Erlangen-Nürnberg."></a>
 
-<p align="center"><a href="https://buymeacoffee.com/raulsimpetru"><img src="assets/pill-coffee.png" height="37" alt="Buy me a coffee"></a></p>
+<p align="center"><a href="https://buymeacoffee.com/raulsimpetru"><img src="assets/pill-coffee.svg" height="40" alt="Buy me a coffee"></a></p>
