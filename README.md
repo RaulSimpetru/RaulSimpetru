@@ -48,16 +48,14 @@ Deliver one landscape PNG with exact 16:9 pixel dimensions, preferably 1920x1080
 <a href="https://raulsimpetru.github.io/uploads/raul-simpetru-cv.pdf"><kbd>&nbsp;CV (PDF)&nbsp;</kbd></a>
 </p>
 
-> [!NOTE]
-> Dr.-Ing. defence expected **December 2026**.
-
 ## Research software
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [MyoGestic](https://github.com/NsquaredLab/MyoGestic)
+<a href="https://github.com/NsquaredLab/MyoGestic"><img src="assets/logo-myogestic.png" height="90" alt="MyoGestic"></a>
+
 <sub>PYTHON · OPEN SOURCE</sub>
 
 Real-time myocontrol software with decoder calibration during participant sessions.
@@ -67,7 +65,8 @@ Real-time myocontrol software with decoder calibration during participant sessio
 </td>
 <td width="50%" valign="top">
 
-### [MyoGen](https://github.com/NsquaredLab/MyoGen)
+<a href="https://github.com/NsquaredLab/MyoGen"><img src="assets/logo-myogen.png" height="90" alt="MyoGen"></a>
+
 <sub>PYTHON · OPEN SOURCE</sub>
 
 Biophysical simulation from neural drive to EMG.
